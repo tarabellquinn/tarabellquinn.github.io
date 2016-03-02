@@ -2,7 +2,7 @@
 
 .jumbotron {
 	position: relative;
-	background: #000 url("fruit.png") center center;
+	background: #000 url("sables.png") center center;
 	width: 100%;
 	height: 100%;
 	background-size: cover;
@@ -16,4 +16,27 @@
 	margin-right: 50%;
 	margin-left: 50%;
 }
-
+title {
+	color: #DC143C;
+	}
+body {
+  font-family: Tahoma, Geneva, sans-serif;
+  color: #666;
+}
+header {
+  color: #DC143C;
+  padding: 10px;
+  line-height: 28px;
+  text-align: center;
+  bottom: 0;
+  margin: 0;
+}
+title {
+	color: #DC143C;
+}
+h1 {
+color: #D8BFD8;
+  }
+h3 {
+color: #DC143C;
+  }
